@@ -1,0 +1,11 @@
+drop DATABASE IF EXISTS VPF01;
+CREATE DATABASE IF NOT EXISTS VPF01;
+USE VPF01;
+
+CREATE TABLE gerenciamento (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    titulo VARCHAR(255) NOT NULL,
+    descricao INT NOT NULL,
+    data_do_cadastro date NOT NULL,
+    nome VARCHAR(255) NOT NULL
+);
