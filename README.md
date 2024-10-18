@@ -4,4 +4,3 @@ Projeto regido pelo Professor Lucas Paiva, produzido na matéria de BACKEND, com
 
 _Produzido por Beatriz Vizeu._
 ![insomnia](./Capturar.PNG)
-![programação](./Captura1.PNG)
